@@ -3,7 +3,6 @@
     "@types/qrcode": "^1.5.5",
     "lovable-tagger": "^1.1.9",
     "lucide-react": "^0.263.1",
-    "npm-run-all": "^4.1.5",
     "qrcode": "^1.5.4",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
